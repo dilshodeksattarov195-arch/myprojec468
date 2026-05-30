@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercerify",
+        "uuid": 3544632,
+        "checksum": "zi42"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
